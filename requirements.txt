@@ -1,1 +1,3 @@
-pip install requests tqdm
+requests
+tqdm
+colorama
